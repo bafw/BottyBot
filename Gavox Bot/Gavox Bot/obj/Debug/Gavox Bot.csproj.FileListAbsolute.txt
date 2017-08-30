@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Gavox Bot.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Gavox Bot.exe
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Gavox Bot.pdb
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Discord.Net.Commands.dll
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Discord.Net.dll
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Nito.AsyncEx.dll
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\RestSharp.dll
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\WebSocket4Net.dll
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Nito.AsyncEx.xml
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\bin\Debug\RestSharp.xml
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\obj\Debug\Gavox Bot.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\obj\Debug\Gavox Bot.exe
+c:\users\user\documents\visual studio 2017\Projects\Gavox Bot\Gavox Bot\obj\Debug\Gavox Bot.pdb
